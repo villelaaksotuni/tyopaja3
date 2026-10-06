@@ -1,0 +1,208 @@
+﻿varaus_id;luotu;saapuminen;lahto;yot;henkilot;kohde;kanava;hinta_eur;tila;asiakas
+TP-2026-0001;2025-10-15;2026-01-07;2026-01-09;2;4;Mökki 6;BOOKING.COM;258.00;cancelled;Asiakas 0001
+TP-2026-0002;2025-10-23;5.1.2026;7.1.2026;2;3;Mökki 4;booking;445,00;vahvistettu;Asiakas 0002
+TP-2026-0003;2025-10-26;3.1.2026;5.1.2026;2;1;Mökki 1;Puhelin;307,00;peruttu;Asiakas 0003
+TP-2026-0004;2025-10-28;2026-01-07;2026-01-08;1;3;Mökki 5;booking;234.00;vahvistettu;Asiakas 0004
+TP-2026-0005;2025-11-04;2026-01-24;2026-01-25;1;3;Mökki 5;BOOKING.COM;195.00;vahvistettu;Asiakas 0005
+TP-2026-0006;2025-11-21;6.1.2026;7.1.2026;1;4;Mökki 1;Booking.com;170,00;vahvistettu;Asiakas 0006
+TP-2026-0007;2025-11-22;2026-02-07;2026-02-12;5;4;Mökki 5;Booking.com;846.00;vahvistettu;Asiakas 0007
+TP-2026-0008;2025-11-24;2026-02-14;2026-02-17;3;3;Mökki 5;booking;513,00;vahvistettu;Asiakas 0008
+TP-2026-0009;2025-11-25;2026-01-02;2026-01-05;3;2;Mökki 5;BOOKING.COM;519,00;vahvistettu;Asiakas 0009
+TP-2026-0010;2025-11-25;12.1.2026;15.1.2026;3;3;Mökki 2;Puhelin;447.00;vahvistettu;Asiakas 0010
+TP-2026-0011;2025-11-25;19/01/2026;20/01/2026;1;3;Mökki 6;Puhelin;234,00;vahvistettu;Asiakas 0011
+TP-2026-0012;2025-11-25;2026-02-16;2026-02-20;4;2;Mökki 3;Booking.com;666,00;vahvistettu;Asiakas 0012
+TP-2026-0013;2025-12-04;2026-02-09;2026-02-12;3;4;Mökki 3;Booking.com;447,00;vahvistettu;Asiakas 0013
+TP-2026-0014;2025-12-06;2026-01-25;2026-01-28;3;3;Mökki 2;Oma verkkosivu;387,00;vahvistettu;Asiakas 0014
+TP-2026-0015;2025-12-14;3.3.2026;5.3.2026;2;4;Mökki 2;Oma verkkosivu;258,00;vahvistettu;Asiakas 0015
+TP-2026-0016;2025-12-14;6.3.2026;9.3.2026;3;4;Mökki 5;Sähköposti;429.00;vahvistettu;Asiakas 0016
+TP-2026-0017;2025-12-15;2026-01-05;2026-01-07;2;2;Mökki 3;BOOKING.COM;370,00;vahvistettu;Asiakas 0017
+TP-2026-0018;2025-12-15;2026-02-25;2026-03-01;4;4;Mökki 4;BOOKING.COM;;vahvistettu;Asiakas 0018
+TP-2026-0019;2025-12-20;2026-03-14;2026-03-16;2;4;Mökki 4;Sähköposti;279,00;cancelled;Asiakas 0019
+TP-2026-0020;2025-12-23;2026-02-04;2026-02-06;2;2;Mökki 4;BOOKING.COM;288,00;cancelled;Asiakas 0020
+TP-2026-0021;2025-12-28;10/03/2026;14/03/2026;4;4;Mökki 2;Oma verkkosivu;941.00;vahvistettu;Asiakas 0021
+TP-2026-0022;2025-12-29;25.2.2026;1.3.2026;4;3;Mökki 5;Oma verkkosivu;603.00;vahvistettu;Asiakas 0022
+TP-2026-0023;2025-12-30;8.1.2026;11.1.2026;3;2;Mökki 2;BOOKING.COM;429,00;vahvistettu;Asiakas 0023
+TP-2026-0024;2025-12-30;2026-03-17;2026-03-20;3;3;Mökki 4;Booking.com;387,00;vahvistettu;Asiakas 0024
+TP-2026-0025;2025-12-31;4.3.2026;6.3.2026;2;3;Mökki 3;Oma verkkosivu;303,00;vahvistettu;Asiakas 0025
+TP-2026-0026;2026-01-02;12.1.2026;14.1.2026;2;4;Mökki 4;Puhelin;318.00;vahvistettu;Asiakas 0026
+TP-2026-0027;2026-01-03;2026-01-30;2026-02-01;2;3;Mökki 3;Booking.com;345.00;vahvistettu;Asiakas 0027
+TP-2026-0028;2026-01-05;22/01/2026;23/01/2026;1;4;Mökki 5;Sähköposti;189.00;vahvistettu;Asiakas 0028
+TP-2026-0029;2026-01-05;7.2.2026;12.2.2026;5;4;Mökki 4;BOOKING.COM;726,00;vahvistettu;Asiakas 0029
+TP-2026-0030;2026-01-06;10/03/2026;13/03/2026;3;3;Mökki 5;booking;387.00;vahvistettu;Asiakas 0030
+TP-2026-0031;2026-01-06;2026-03-23;2026-03-25;2;4;Mökki 2;Oma verkkosivu;370,00;vahvistettu;Asiakas 0031
+TP-2026-0032;2026-01-08;2026-02-27;2026-03-01;2;2;Mökki 1;booking;390,00;vahvistettu;Asiakas 0032
+TP-2026-0033;2026-01-10;14.2.2026;16.2.2026;2;4;Mökki 4;Booking.com;339,00;vahvistettu;Asiakas 0033
+TP-2026-0034;2026-01-11;7.4.2026;8.4.2026;1;1;Mökki 5;Booking.com;144.00;vahvistettu;Asiakas 0034
+TP-2026-0035;2026-01-12;2026-02-02;2026-02-05;3;4;Mökki 3;Booking.com;567,00;vahvistettu;Asiakas 0035
+TP-2026-0036;2026-01-18;30.1.2026;31.1.2026;1;4;Mökki 5;Puhelin;270,00;peruttu;Asiakas 0036
+TP-2026-0037;2026-01-18;2026-04-03;2026-04-05;2;3;Mökki 6;Booking.com;445.00;vahvistettu;Asiakas 0037
+TP-2026-0038;2026-01-20;2026-04-06;2026-04-07;1;4;Mökki 4;Booking.com;365,00;vahvistettu;Asiakas 0038
+TP-2026-0039;2026-01-21;2026-03-20;2026-03-23;3;4;Mökki 5;booking;609,00;peruttu;Asiakas 0039
+TP-2026-0040;2026-01-22;1.4.2026;3.4.2026;2;2;Mökki 4;Sähköposti;329.00;vahvistettu;Asiakas 0040
+TP-2026-0041;2026-01-24;06/04/2026;08/04/2026;2;4;Mökki 3;Booking.com;430,00;vahvistettu;Asiakas 0041
+TP-2026-0042;2026-01-25;23.2.2026;25.2.2026;2;4;Mökki 3;verkkosivu;318,00;vahvistettu;Asiakas 0042
+TP-2026-0043;2026-02-06;2026-04-14;2026-04-16;2;2;Mökki 4;Puhelin;374.00;vahvistettu;Asiakas 0043
+TP-2026-0044;2026-02-09;2026-02-19;2026-02-23;4;1;Mökki 4;Puhelin;689,00;vahvistettu;Asiakas 0044
+TP-2026-0045;2026-02-10;2026-03-25;2026-03-28;3;3;Mökki 6;BOOKING.COM;408,00;vahvistettu;Asiakas 0045
+TP-2026-0046;2026-02-11;18.4.2026;21.4.2026;3;3;Mökki 1;Booking.com;453,00;vahvistettu;Asiakas 0046
+TP-2026-0047;2026-02-14;2026-03-09;2026-03-11;2;2;Mökki 4;Puhelin;348,00;vahvistettu;Asiakas 0047
+TP-2026-0048;2026-02-15;2026-03-05;2026-03-08;3;4;Mökki 1;Booking.com;549.00;vahvistettu;Asiakas 0048
+TP-2026-0025;2025-12-31;2026-03-04;2026-03-06;2;3;Mökki 3;Oma verkkosivu;303,00;vahvistettu;Asiakas 0025
+TP-2026-0049;2026-02-15;02/05/2026;05/05/2026;3;3;Mökki 2;booking;453.00;vahvistettu;Asiakas 0049
+TP-2026-0050;2026-02-17;20/04/2026;22/04/2026;2;4;Mökki 3;Booking.com;318.00;vahvistettu;Asiakas 0050
+TP-2026-0051;2026-02-18;13.5.2026;14.5.2026;1;4;Mökki 2;Oma verkkosivu;230.00;vahvistettu;Asiakas 0051
+TP-2026-0052;2026-02-21;8.3.2026;12.3.2026;4;1;Mökki 6;Puhelin;516,00;vahvistettu;Asiakas 0052
+TP-2026-0053;2026-02-22;8.4.2026;9.4.2026;1;3;Mökki 1;Booking.com;174,00;vahvistettu;Asiakas 0053
+TP-2026-0054;2026-02-26;3.4.2026;4.4.2026;1;2;Mökki 2;Booking.com;260.00;vahvistettu;Asiakas 0054
+TP-2026-0055;2026-02-28;12/05/2026;15/05/2026;3;4;Mökki 6;Sähköposti;589,00;vahvistettu;Asiakas 0055
+TP-2026-0056;2026-03-01;24/05/2026;27/05/2026;3;2;Mökki 6;Booking.com;417.00;vahvistettu;Asiakas 0056
+TP-2026-0035;2026-01-12;2026-02-02;2026-02-05;3;4;Mökki 3;Booking.com;567,00;vahvistettu;Asiakas 0035
+TP-2026-0057;2026-03-02;24.3.2026;28.3.2026;4;3;Mökki 4;verkkosivu;582,00;vahvistettu;Asiakas 0057
+TP-2026-0058;2026-03-02;5.5.2026;7.5.2026;2;1;Aitta;Sähköposti;138,00;vahvistettu;Asiakas 0058
+TP-2026-0059;2026-03-03;15.4.2026;17.4.2026;2;2;Mökki 6;booking;314.00;peruttu;Asiakas 0059
+TP-2026-0060;2026-03-07;2026-03-15;2026-03-18;3;2;Mökki 5;Puhelin;477,00;vahvistettu;Asiakas 0060
+TP-2026-0061;2026-03-09;26/03/2026;30/03/2026;4;1;Mökki 5;BOOKING.COM;633,00;vahvistettu;Asiakas 0061
+TP-2026-0062;2026-03-10;31.5.2026;1.6.2026;1;4;Mökki 6;BOOKING.COM;189,00;vahvistettu;Asiakas 0062
+TP-2026-0063;2026-03-12;9.6.2026;12.6.2026;3;2;Mökki 2;verkkosivu;507.00;vahvistettu;Asiakas 0063
+TP-2026-0064;2026-03-15;2026-05-03;2026-05-04;1;3;Mökki 5;Oma verkkosivu;216,00;vahvistettu;Asiakas 0064
+TP-2026-0065;2026-03-18;5.5.2026;8.5.2026;3;4;Mökki 5;Booking.com;;vahvistettu;Asiakas 0065
+TP-2026-0066;2026-03-18;16.5.2026;17.5.2026;1;3;Mökki 2;Booking.com;195.00;vahvistettu;Asiakas 0066
+TP-2026-0067;2026-03-19;24.3.2026;27.3.2026;3;2;Mökki 3;Sähköposti;477,00;vahvistettu;Asiakas 0067
+TP-2026-0068;2026-03-19;12.5.2026;13.5.2026;1;3;Mökki 3;Booking.com;234.00;vahvistettu;Asiakas 0068
+TP-2026-0069;2026-03-19;2026-06-12;2026-06-15;3;1;Aitta;Oma verkkosivu;282.00;vahvistettu;Asiakas 0069
+TP-2026-0070;2026-03-20;2026-05-06;2026-05-08;2;2;Mökki 2;BOOKING.COM;;vahvistettu;Asiakas 0070
+TP-2026-0071;2026-03-21;16.4.2026;18.4.2026;2;3;Mökki 3;Sähköposti;339,00;vahvistettu;Asiakas 0071
+TP-2026-0072;2026-03-22;2026-04-29;2026-05-01;2;4;Mökki 4;Booking.com;359,00;vahvistettu;Asiakas 0072
+TP-2026-0073;2026-03-22;19/06/2026;21/06/2026;2;4;Mökki 1;Puhelin;400.00;vahvistettu;Asiakas 0073
+TP-2026-0074;2026-03-23;23.5.2026;24.5.2026;1;2;Mökki 3;Oma verkkosivu;240,00;vahvistettu;Asiakas 0074
+TP-2026-0075;2026-03-27;20.6.2026;23.6.2026;3;2;Mökki 4;Puhelin;518,00;peruttu;Asiakas 0075
+TP-2026-0076;2026-03-29;2026-04-24;2026-04-26;2;3;Mökki 6;Oma verkkosivu;489.00;vahvistettu;Asiakas 0076
+TP-2026-0077;2026-03-29;3.6.2026;10.6.2026;7;3;Mökki 3;booking;990,00;vahvistettu;Asiakas 0077
+TP-2026-0078;2026-03-29;16/06/2026;18/06/2026;2;2;Mökki 4;BOOKING.COM;258,00;vahvistettu;Asiakas 0078
+TP-2026-0079;2026-03-29;16.6.2026;19.6.2026;3;4;Mökki 6;booking;675,00;vahvistettu;Asiakas 0079
+TP-2026-0080;2026-03-30;2026-06-25;2026-06-27;2;2;Mökki 2;verkkosivu;399,00;vahvistettu;Asiakas 0080
+TP-2026-0081;2026-04-03;27/06/2026;30/06/2026;3;4;Mökki 4;Booking.com;576,00;vahvistettu;Asiakas 0081
+TP-2026-0082;2026-04-04;2026-06-26;2026-06-29;3;3;Mökki 3;Booking.com;474.00;vahvistettu;Asiakas 0082
+TP-2026-0083;2026-04-06;17/04/2026;19/04/2026;2;4;Mökki 4;Booking.com;360.00;vahvistettu;Asiakas 0083
+TP-2026-0084;2026-04-06;03/07/2026;06/07/2026;3;3;Mökki 1;booking;474,00;vahvistettu;Asiakas 0084
+TP-2026-0085;2026-04-07;15.6.2026;18.6.2026;3;1;Aitta;booking;309,00;vahvistettu;Asiakas 0085
+TP-2026-0086;2026-04-08;2.6.2026;4.6.2026;2;1;Mökki 2;booking;273,00;peruttu;Asiakas 0086
+TP-2026-0087;2026-04-08;2026-06-11;2026-06-16;5;3;Mökki 1;BOOKING.COM;957,00;vahvistettu;Asiakas 0087
+TP-2026-0088;2026-04-09;2026-06-06;2026-06-10;4;2;Mökki 1;Puhelin;537.00;vahvistettu;Asiakas 0088
+TP-2026-0089;2026-04-11;2.7.2026;7.7.2026;5;4;Mökki 3;Puhelin;687.00;vahvistettu;Asiakas 0089
+TP-2026-0090;2026-04-12;13.5.2026;16.5.2026;3;3;Mökki 4;Sähköposti;550,00;vahvistettu;Asiakas 0090
+TP-2026-0091;2026-04-15;14.6.2026;16.6.2026;2;3;Mökki 6;booking;318.00;vahvistettu;Asiakas 0091
+TP-2026-0092;2026-04-15;2026-06-26;2026-06-29;3;4;Mökki 1;booking;549.00;vahvistettu;Asiakas 0092
+TP-2026-0093;2026-04-15;14.7.2026;16.7.2026;2;4;Mökki 4;BOOKING.COM;318,00;peruttu;Asiakas 0093
+TP-2026-0094;2026-04-17;13.7.2026;20.7.2026;7;2;Mökki 1;Booking.com;1005,00;vahvistettu;Asiakas 0094
+TP-2026-0095;2026-04-19;27.5.2026;30.5.2026;3;2;Aitta;Puhelin;237,00;vahvistettu;Asiakas 0095
+TP-2026-0096;2026-04-22;08/06/2026;11/06/2026;3;2;Mökki 6;BOOKING.COM;387.00;vahvistettu;Asiakas 0096
+TP-2026-0097;2026-04-24;7.7.2026;9.7.2026;2;4;Mökki 2;booking;318.00;vahvistettu;Asiakas 0097
+TP-2026-0092;2026-04-15;2026-06-26;2026-06-29;3;4;Mökki 1;booking;549.00;vahvistettu;Asiakas 0092
+TP-2026-0098;2026-04-24;18.7.2026;20.7.2026;2;1;Mökki 4;verkkosivu;322,00;vahvistettu;Asiakas 0098
+TP-2026-0099;2026-04-25;2026-06-18;2026-06-25;7;3;Mökki 3;Puhelin;1030,00;vahvistettu;Asiakas 0099
+TP-2026-0100;2026-04-25;18/07/2026;21/07/2026;3;2;Aitta;Oma verkkosivu;297,00;vahvistettu;Asiakas 0100
+TP-2026-0101;2026-04-26;01/07/2026;05/07/2026;4;2;Mökki 5;Booking.com;678.00;vahvistettu;Asiakas 0101
+TP-2026-0102;2026-04-28;2026-07-12;2026-07-15;3;3;Mökki 6;Puhelin;492.00;vahvistettu;Asiakas 0102
+TP-2026-0103;2026-05-01;2026-07-03;2026-07-06;3;1;Aitta;verkkosivu;282,00;vahvistettu;Asiakas 0103
+TP-2026-0104;2026-05-02;2026-07-08;2026-07-10;2;3;Mökki 5;Puhelin;303,00;vahvistettu;Asiakas 0104
+TP-2026-0105;2026-05-03;4.6.2026;6.6.2026;2;3;Mökki 1;verkkosivu;324.00;vahvistettu;Asiakas 0105
+TP-2026-0106;2026-05-03;9.7.2026;16.7.2026;7;2;Mökki 3;Puhelin;945,00;vahvistettu;Asiakas 0106
+TP-2026-0107;2026-05-05;1.8.2026;3.8.2026;2;4;Mökki 1;Puhelin;339,00;vahvistettu;Asiakas 0107
+TP-2026-0108;2026-05-07;26/06/2026;29/06/2026;3;3;Mökki 6;BOOKING.COM;429,00;vahvistettu;Asiakas 0108
+TP-2026-0109;2026-05-08;20.5.2026;21.5.2026;1;2;Mökki 5;Booking.com;219.00;vahvistettu;Asiakas 0109
+TP-2026-0110;2026-05-09;2026-06-16;2026-06-19;3;4;Mökki 1;Booking.com;447,00;vahvistettu;Asiakas 0110
+TP-2026-0111;2026-05-10;8.8.2026;10.8.2026;2;1;Aitta;Booking.com;153.00;vahvistettu;Asiakas 0111
+TP-2026-0112;2026-05-11;15.6.2026;22.6.2026;7;3;Mökki 2;Booking.com;1090.00;vahvistettu;Asiakas 0112
+TP-2026-0113;2026-05-14;22/07/2026;27/07/2026;5;2;Mökki 2;booking;947.00;vahvistettu;Asiakas 0113
+TP-2026-0114;2026-05-15;3.7.2026;10.7.2026;7;4;Mökki 4;BOOKING.COM;1005,00;cancelled;Asiakas 0114
+TP-2026-0115;2026-05-16;30.7.2026;1.8.2026;2;2;Mökki 3;Oma verkkosivu;369.00;vahvistettu;Asiakas 0115
+TP-2026-0116;2026-05-17;3.7.2026;7.7.2026;4;4;Mökki 6;Puhelin;678.00;vahvistettu;Asiakas 0116
+TP-2026-0117;2026-05-17;2026-07-23;2026-07-27;4;4;Mökki 5;Sähköposti;558.00;vahvistettu;Asiakas 0117
+TP-2026-0118;2026-05-18;26/07/2026;31/07/2026;5;1;Mökki 6;Oma verkkosivu;780,00;vahvistettu;Asiakas 0118
+TP-2026-0119;2026-05-18;2026-08-08;2026-08-13;5;4;Mökki 6;Puhelin;946,00;vahvistettu;Asiakas 0119
+TP-2026-0120;2026-05-22;2026-06-19;2026-06-22;3;1;Mökki 6;Booking.com;484,00;vahvistettu;Asiakas 0120
+TP-2026-0121;2026-05-22;2026-07-02;2026-07-05;3;3;Mökki 2;Booking.com;534.00;vahvistettu;Asiakas 0121
+TP-2026-0122;2026-05-23;2026-07-14;2026-07-21;7;4;Mökki 5;Oma verkkosivu;1065.00;vahvistettu;Asiakas 0122
+TP-2026-0105;2026-05-03;2026-06-04;2026-06-06;2;3;Mökki 1;verkkosivu;324.00;vahvistettu;Asiakas 0105
+TP-2026-0123;2026-05-24;6.7.2026;13.7.2026;7;4;Mökki 1;Sähköposti;945,00;vahvistettu;Asiakas 0123
+TP-2026-0124;2026-05-25;7.8.2026;12.8.2026;5;4;Mökki 3;Sähköposti;747,00;vahvistettu;Asiakas 0124
+TP-2026-0125;2026-05-26;7.7.2026;9.7.2026;2;4;Mökki 3;Oma verkkosivu;318,00;vahvistettu;Asiakas 0125
+TP-2026-0126;2026-05-27;2026-08-03;2026-08-05;2;4;Mökki 6;booking;318,00;vahvistettu;Asiakas 0126
+TP-2026-0127;2026-05-27;4.8.2026;9.8.2026;5;2;Mökki 2;BOOKING.COM;;vahvistettu;Asiakas 0127
+TP-2026-0128;2026-05-27;17.8.2026;22.8.2026;5;2;Mökki 1;Puhelin;726,00;vahvistettu;Asiakas 0128
+TP-2026-0129;2026-05-28;2026-06-19;2026-06-22;3;1;Aitta;BOOKING.COM;264,00;vahvistettu;Asiakas 0129
+TP-2026-0130;2026-05-28;13/08/2026;16/08/2026;3;3;Mökki 2;BOOKING.COM;549,00;vahvistettu;Asiakas 0130
+TP-2026-0131;2026-05-29;11.6.2026;13.6.2026;2;4;Mökki 6;BOOKING.COM;339,00;vahvistettu;Asiakas 0131
+TP-2026-0132;2026-05-29;2026-08-22;2026-08-25;3;2;Aitta;Puhelin;237.00;vahvistettu;Asiakas 0132
+TP-2026-0133;2026-05-30;11.6.2026;16.6.2026;5;4;Mökki 3;booking;807.00;vahvistettu;Asiakas 0133
+TP-2026-0134;2026-06-01;2026-08-01;2026-08-03;2;1;Aitta;Oma verkkosivu;153,00;peruttu;Asiakas 0134
+TP-2026-0135;2026-06-02;10.7.2026;17.7.2026;7;2;Mökki 2;booking;975,00;vahvistettu;Asiakas 0135
+TP-2026-0135;2026-06-02;2026-07-10;2026-07-17;7;2;Mökki 2;booking;975,00;vahvistettu;Asiakas 0135
+TP-2026-0136;2026-06-02;2026-08-21;2026-08-23;2;4;Mökki 6;booking;420,00;vahvistettu;Asiakas 0136
+TP-2026-0137;2026-06-04;2026-06-26;2026-06-29;3;1;Aitta;BOOKING.COM;267,00;vahvistettu;Asiakas 0137
+TP-2026-0138;2026-06-05;1.8.2026;6.8.2026;5;2;Mökki 4;Oma verkkosivu;696.00;vahvistettu;Asiakas 0138
+TP-2026-0139;2026-06-05;01/09/2026;04/09/2026;3;2;Mökki 4;booking;507,00;vahvistettu;Asiakas 0139
+TP-2026-0140;2026-06-07;6.8.2026;8.8.2026;2;2;Mökki 5;Oma verkkosivu;365,00;vahvistettu;Asiakas 0140
+TP-2026-0141;2026-06-07;2026-08-30;2026-09-01;2;2;Aitta;Oma verkkosivu;168.00;vahvistettu;Asiakas 0141
+TP-2026-0142;2026-06-08;22.6.2026;26.6.2026;4;2;Mökki 1;Sähköposti;576.00;vahvistettu;Asiakas 0142
+TP-2026-0137;2026-06-04;2026-06-26;2026-06-29;3;1;Aitta;BOOKING.COM;267,00;vahvistettu;Asiakas 0137
+TP-2026-0126;2026-05-27;2026-08-03;2026-08-05;2;4;Mökki 6;booking;318,00;vahvistettu;Asiakas 0126
+TP-2026-0143;2026-06-09;2.8.2026;6.8.2026;4;4;Mökki 3;Oma verkkosivu;;vahvistettu;Asiakas 0143
+TP-2026-0144;2026-06-11;04/09/2026;06/09/2026;2;2;Mökki 5;Oma verkkosivu;360.00;vahvistettu;Asiakas 0144
+TP-2026-0145;2026-06-12;2026-07-17;2026-07-22;5;2;Mökki 3;Booking.com;777,00;vahvistettu;Asiakas 0145
+TP-2026-0146;2026-06-16;2026-07-10;2026-07-13;3;2;Mökki 4;BOOKING.COM;519.00;vahvistettu;Asiakas 0146
+TP-2026-0147;2026-06-17;9.7.2026;12.7.2026;3;1;Aitta;Booking.com;222.00;vahvistettu;Asiakas 0147
+TP-2026-0131;2026-05-29;2026-06-11;2026-06-13;2;4;Mökki 6;BOOKING.COM;339,00;vahvistettu;Asiakas 0131
+TP-2026-0148;2026-06-17;22.8.2026;26.8.2026;4;3;Mökki 5;Booking.com;597,00;vahvistettu;Asiakas 0148
+TP-2026-0149;2026-06-18;22.6.2026;25.6.2026;3;1;Mökki 2;booking;462,00;vahvistettu;Asiakas 0149
+TP-2026-0150;2026-06-18;05/07/2026;07/07/2026;2;4;Mökki 5;Sähköposti;430,00;vahvistettu;Asiakas 0150
+TP-2026-0151;2026-06-21;2026-09-18;2026-09-21;3;4;Mökki 1;BOOKING.COM;717,00;vahvistettu;Asiakas 0151
+TP-2026-0152;2026-06-23;21.9.2026;24.9.2026;3;1;Aitta;Puhelin;267.00;vahvistettu;Asiakas 0152
+TP-2026-0152;2026-06-23;21.9.2026;24.9.2026;3;1;Aitta;Puhelin;267.00;vahvistettu;Asiakas 0152
+TP-2026-0153;2026-06-25;2026-09-07;2026-09-09;2;4;Mökki 5;Booking.com;318,00;vahvistettu;Asiakas 0153
+TP-2026-0154;2026-06-27;2026-07-24;2026-07-29;5;2;Mökki 1;verkkosivu;777,00;vahvistettu;Asiakas 0154
+TP-2026-0154;2026-06-27;2026-07-24;2026-07-29;5;2;Mökki 1;verkkosivu;777,00;vahvistettu;Asiakas 0154
+TP-2026-0155;2026-06-29;2026-07-21;2026-07-23;2;3;Mökki 6;Puhelin;363,00;vahvistettu;Asiakas 0155
+TP-2026-0156;2026-06-29;8.8.2026;12.8.2026;4;3;Mökki 1;Puhelin;642.00;vahvistettu;Asiakas 0156
+TP-2026-0157;2026-06-30;2026-08-16;2026-08-19;3;1;Aitta;Oma verkkosivu;249,00;vahvistettu;Asiakas 0157
+TP-2026-0158;2026-06-30;3.9.2026;5.9.2026;2;2;Mökki 3;Oma verkkosivu;425,00;vahvistettu;Asiakas 0158
+TP-2026-0159;2026-06-30;09/09/2026;11/09/2026;2;2;Mökki 5;booking;348,00;vahvistettu;Asiakas 0159
+TP-2026-0160;2026-07-02;2026-07-24;2026-07-29;5;4;Mökki 3;BOOKING.COM;1027,00;vahvistettu;Asiakas 0160
+TP-2026-0161;2026-07-02;17/08/2026;19/08/2026;2;1;Mökki 6;Oma verkkosivu;273,00;vahvistettu;Asiakas 0161
+TP-2026-0162;2026-07-04;22.7.2026;25.7.2026;3;1;Aitta;BOOKING.COM;249.00;vahvistettu;Asiakas 0162
+TP-2026-0163;2026-07-04;27.7.2026;1.8.2026;5;1;Mökki 2;Booking.com;796,00;vahvistettu;Asiakas 0163
+TP-2026-0164;2026-07-07;27.7.2026;31.7.2026;4;2;Mökki 4;Puhelin;666,00;vahvistettu;Asiakas 0164
+TP-2026-0165;2026-07-08;2026-07-18;2026-07-20;2;2;Mökki 6;BOOKING.COM;339,00;vahvistettu;Asiakas 0165
+TP-2026-0166;2026-07-08;02/09/2026;03/09/2026;1;3;Mökki 6;BOOKING.COM;189.00;vahvistettu;Asiakas 0166
+TP-2026-0167;2026-07-09;12.7.2026;15.7.2026;3;1;Aitta;Puhelin;207.00;vahvistettu;Asiakas 0167
+TP-2026-0168;2026-07-12;2026-08-03;2026-08-05;2;3;Mökki 1;Oma verkkosivu;378.00;vahvistettu;Asiakas 0168
+TP-2026-0169;2026-07-13;21/07/2026;23/07/2026;2;2;Mökki 5;Puhelin;318.00;vahvistettu;Asiakas 0169
+TP-2026-0170;2026-07-14;20/07/2026;25/07/2026;5;3;Mökki 4;BOOKING.COM;981.00;vahvistettu;Asiakas 0170
+TP-2026-0171;2026-07-15;13.8.2026;15.8.2026;2;3;Mökki 4;Booking.com;384,00;vahvistettu;Asiakas 0171
+TP-2026-0172;2026-07-16;2026-08-10;2026-08-13;3;1;Aitta;verkkosivu;267.00;vahvistettu;Asiakas 0172
+TP-2026-0173;2026-07-17;2026-09-08;2026-09-10;2;2;Mökki 4;Oma verkkosivu;314,00;vahvistettu;Asiakas 0173
+TP-2026-0174;2026-07-18;01/08/2026;03/08/2026;2;2;Mökki 5;Booking.com;339,00;vahvistettu;Asiakas 0174
+TP-2026-0175;2026-07-18;2026-08-20;2026-08-22;2;4;Mökki 2;verkkosivu;451.00;vahvistettu;Asiakas 0175
+TP-2026-0176;2026-07-18;2026-09-01;2026-09-02;1;3;Mökki 6;Booking.com;294.00;vahvistettu;Asiakas 0176
+TP-2026-0177;2026-07-20;20.9.2026;22.9.2026;2;1;Mökki 4;Oma verkkosivu;393.00;vahvistettu;Asiakas 0177
+TP-2026-0178;2026-07-21;5.8.2026;7.8.2026;2;4;Mökki 1;Booking.com;378,00;vahvistettu;Asiakas 0178
+TP-2026-0179;2026-07-24;27.8.2026;30.8.2026;3;2;Mökki 6;Booking.com;603,00;vahvistettu;Asiakas 0179
+TP-2026-0180;2026-07-24;09/09/2026;11/09/2026;2;2;Aitta;Booking.com;224.00;cancelled;Asiakas 0180
+TP-2026-0181;2026-07-26;12/09/2026;15/09/2026;3;4;Mökki 3;Oma verkkosivu;408,00;vahvistettu;Asiakas 0181
+TP-2026-0182;2026-07-27;2026-08-08;2026-08-10;2;3;Mökki 4;booking;339,00;vahvistettu;Asiakas 0182
+TP-2026-0183;2026-07-27;22.8.2026;24.8.2026;2;2;Mökki 1;BOOKING.COM;369.00;vahvistettu;Asiakas 0183
+TP-2026-0184;2026-07-29;3.9.2026;4.9.2026;1;3;Mökki 2;Puhelin;231.00;vahvistettu;Asiakas 0184
+TP-2026-0185;2026-07-29;12.9.2026;13.9.2026;1;2;Aitta;Puhelin;159.00;vahvistettu;Asiakas 0185
+TP-2026-0186;2026-08-02;27.9.2026;28.9.2026;1;4;Mökki 5;Booking.com;189,00;vahvistettu;Asiakas 0186
+TP-2026-0186;2026-08-02;27.9.2026;28.9.2026;1;4;Mökki 5;Booking.com;189,00;vahvistettu;Asiakas 0186
+TP-2026-0187;2026-08-06;23.9.2026;26.9.2026;3;2;Mökki 3;Booking.com;468,00;vahvistettu;Asiakas 0187
+TP-2026-0188;2026-08-07;2026-09-25;2026-09-27;2;1;Mökki 5;Booking.com;375.00;vahvistettu;Asiakas 0188
+TP-2026-0189;2026-08-09;26/08/2026;30/08/2026;4;3;Mökki 4;Puhelin;618,00;peruttu;Asiakas 0189
+TP-2026-0190;2026-08-11;2026-08-28;2026-09-01;4;2;Mökki 5;Sähköposti;588.00;vahvistettu;Asiakas 0190
+TP-2026-0191;2026-08-13;2026-09-28;2026-09-29;1;4;Mökki 2;Booking.com;309,00;vahvistettu;Asiakas 0191
+TP-2026-0192;2026-08-29;5.9.2026;7.9.2026;2;2;Aitta;booking;228,00;vahvistettu;Asiakas 0192
+TP-2026-0193;2026-09-01;2026-09-19;2026-09-21;2;2;Mökki 5;Sähköposti;309.00;peruttu;Asiakas 0193
+TP-2026-0194;2026-09-02;2026-09-16;2026-09-18;2;2;Aitta;Oma verkkosivu;228,00;vahvistettu;Asiakas 0194
+TP-2026-0175;2026-07-18;2026-08-20;2026-08-22;2;4;Mökki 2;verkkosivu;451.00;vahvistettu;Asiakas 0175
+YHTEENSÄ;;;;590;;;;90294,00;;
