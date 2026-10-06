@@ -36,17 +36,11 @@ figure{margin:12px 0}img{max-width:100%;height:auto;border:1px solid var(--line)
 figcaption{font-size:16px;color:#444}
 .miss{background:#fff3cd;color:#6b4e00;font-size:14px;border-radius:4px;padding:1px 6px;white-space:nowrap}
 .chk{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:6px 0}.ok{background:#e6f4ec;padding:8px;border-radius:6px}.bad{background:#fbe9ee;padding:8px;border-radius:6px}
-.help{display:flex;gap:12px;flex-wrap:wrap}.help>div{padding:12px 20px;border-radius:8px;font-weight:700}.g{background:#bfe8cd}.p{background:#f9c6d9}
+
 .cb input{width:22px;height:22px;vertical-align:middle}
 table{border-collapse:collapse;width:100%}th,td{border:1px solid var(--line);padding:8px;text-align:left;vertical-align:top}th{background:var(--pl)}
 .guide td:first-child{width:40%}
-.map td{height:44px}.map th{font-size:16px}
-.acard{display:grid;grid-template-columns:1fr 1fr;gap:12px}.afield .line{border-bottom:2px solid #444;height:34px}.afield label{font-weight:600}
 dt{font-weight:700;margin-top:10px;color:var(--p)}dd{margin:0}
 footer{text-align:center;padding:20px;color:#555}
-@media(max-width:640px){body{font-size:18px}.two,.chk,.acard{grid-template-columns:1fr}
+@media(max-width:640px){body{font-size:18px}.two,.chk{grid-template-columns:1fr}
  .flow{flex-direction:column;align-items:stretch}.flow .arr{transform:rotate(90deg);align-self:center}h1{font-size:1.6rem}}
-@media print{@page{size:A4 landscape;margin:10mm}
- .screen{display:none!important}body{font-size:11pt}main{max-width:none;padding:0}
- .mapcard{margin:0;border:0}.mapcard h2{margin:0 0 4mm;font-size:16pt}#agenttikortti{break-before:page}
- .map td{height:9mm}th{background:#eee!important}h3.pt{margin:3mm 0 1mm;font-size:12pt}.pt.small{font-size:9pt}}
